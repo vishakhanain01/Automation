@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  
+  
+  <classes>
+  
+  <class name="Practiceradiodropdown.Dropdownpractice">
+				<methods>
+					<include name="dropdown"></include>
+				</methods>
+
+			</class>
+			
+			
+			<class name="Practiceradiodropdown.Radiobuttonpractice">
+				<methods>
+					<include name="radio"></include>
+				</methods>
+			</class>
+			
+			
+			<class name="Practiceradiodropdown.Textarea">
+
+				<methods>
+
+					<include name="text"></include>
+
+				</methods>
+			</class>
+			
+			
+			
+			
+		</classes>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    </test> 
+</suite> 
+  
+<!-- <classes>
+			<class name="test.title">
+
+				<methods>
+
+					<include name="titile"></include>
+
+				</methods>
+			</class>
+			
+			<class name="test.url">
+				<methods>
+					<include name="urls"></include>
+				</methods>
+			</class>
+			
+			
+			<class name="test.verifylogin">
+				<methods>
+					<include name="login"></include>
+				</methods>
+
+			</class>
+		</classes> -->
+			
+  
+
+
+
+

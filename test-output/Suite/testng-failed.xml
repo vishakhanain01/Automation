@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="Test">
+    <classes>
+      <class name="Practiceradiodropdown.Dropdownpractice">
+        <methods>
+          <include name="dropdown"/>
+        </methods>
+      </class> <!-- Practiceradiodropdown.Dropdownpractice -->
+      <class name="Practiceradiodropdown.Radiobuttonpractice">
+        <methods>
+          <include name="radio"/>
+        </methods>
+      </class> <!-- Practiceradiodropdown.Radiobuttonpractice -->
+      <class name="Practiceradiodropdown.Textarea">
+        <methods>
+          <include name="text"/>
+        </methods>
+      </class> <!-- Practiceradiodropdown.Textarea -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
